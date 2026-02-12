@@ -32,8 +32,8 @@ A stylish command-line interface (CLI) application for managing your personal bo
 ### 1. Clone or Download the Project
 
 ```bash
-git clone https://github.com/yourusername/mybook-db.git
-cd mybook-db
+git clone https://github.com/nourreeldin/MyBookDB.git
+cd MyBookDB
 ```
 
 ### 2. Download MySQL Connector
